@@ -1,4 +1,4 @@
-var animal = "Jaguar";
+var animal = "Tiger";
 
 var isCuddly = true;
 
